@@ -1,0 +1,53 @@
+﻿-post: el metodo http post envia datos al servidor 
+-un proceso termina en forma normal con la señal 0:00 
+KILL[-SEÑAL] PID
+-XML es el lenguaje de programación que guarda y envia como 
+texto compilado e interpretado
+-maquina virtual :
+1.el entorno creado por el hypervisor debe ser identico al de
+una maquina fisica
+2.el hypervisor debe tener control completo de la maquina que esta
+virtualizando, debe aislar la misma del sistema que esta ejecutando
+3.no debe haber , o debe haber poca diferencia de rendimiento 
+entre una maquina virtual y una maquina fisica
+
+-fdisk -l : formatear un disco rigido
+-http es un protocolo sin estado , que forma parter de capa de aplicación
+permite la comunicación entre sistemas distruidos (base de la web)
+perimite la comunicación entre clientes y servidores bajo distintas configuraciones
+de la red.
+-ssh es un metodo para iniciar una session segura, en una computadora remota , utilizando 
+distintos metodos de autenticación como passwords
+-particion de disco en linux
+    2 particiones, una para la swap y otra raiz o “/”
+    3 particiones, una para swap, otra para raiz o “/” y la tercera para “/home”
+-Qué es una partición Swap?
+
+-La swap es un espacio reservado en tu disco duro para poder 
+usarse como una extensión de memoria virtual de tu sistema. 
+Es una técnica utilizada desde hace tiempo para hacer creer 
+a los programas que existe mas memoria RAM de la que en realidad existe. 
+Es el propio sistema operativo el que se encarga de pasar datos a la swap cuando 
+necesita mas espacio libre en la RAM y viceversa. 
+-CHMOD -> NOS PERMITIRA CMABIAR EN ARCHIVOS Y DIRECTORIOS
+-CHGRP -> PARA CAMBIAR EL GRUPO AL QUE U USUARIO ESTA ASOCIADO
+-APT -GET UPDATE && APT-GET UPGRADE ACTULIZAR REPOSITORIOS Y PAQUETES
+-sudo apt install openssh-server 
+-KERNEL: 
+ubica un programa en la memoria
+asigna tiempo de cpu a un programa
+permite la interacción entre distintos programas
+
+-gnu. conjunto de aplicaciónes de base, que utiliza el nucleo
+linux -este conjunto de aplicaciones se desarrollo con la intensión
+de generar un alternativa de codigo abierto a unix
+-Libertades del sofware libre:
+1modificarlo
+2copiarlo
+-distriburlo
+-distibuir la modificación
+
+-MATAR UN PROCESO MUERE LE PADRE PERO NO EL HIJO: QUEDA ZOMBIE 
+ES DECIR TRATA DE FINALIZAR SU EJECUCIÓN
+-
+
